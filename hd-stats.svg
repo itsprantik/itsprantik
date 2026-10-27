@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="40" viewBox="0 0 620 40" role="img"><title>stats</title><style>
+:root{--fg:#1f2328;--dim:#656d76;--faint:#d0d7de;--accent:#0969da}
+@media (prefers-color-scheme: dark){
+  :root{--fg:#e6edf3;--dim:#8b949e;--faint:#30363d;--accent:#58a6ff}
+}
+text{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:var(--fg)}
+.dim{fill:var(--dim)}
+.accent{fill:var(--accent)}
+.faint{fill:var(--faint)}
+</style><text x="0" y="26" font-size="18" font-weight="700" text-anchor="start" class="accent" >&gt;</text><text x="21.599999999999998" y="26" font-size="18" font-weight="700" text-anchor="start" >stats</text><line x1="86.4" y1="20" x2="620" y2="20" stroke="var(--faint)" stroke-width="1"/></svg>
